@@ -1,4 +1,6 @@
-![alt text](https://github.com/lucasmedeiros/percurso/blob/master/percurso.png "Logo PerCurso")
+<p align="center">
+  <img src="percurso.png">
+</p>
 
 *Que bloco é esse?*, *Onde fica o bloco CN, e como posso chegar lá?*, *Será que o caminho é acessível para que eu possa chegar sem pedir ajuda?*
 
