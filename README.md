@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" src="https://github.com/lucasmedeiros/percurso/blob/master/percurso.png">
+  <img width="128" src="https://github.com/lucasmedeiros/percurso/blob/master/percurso-logo.png">
 </p>
 
 *Que bloco é esse?*, *Onde fica o bloco CN, e como posso chegar lá?*, *Será que o caminho é acessível para que eu possa chegar sem pedir ajuda?*
