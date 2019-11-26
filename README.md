@@ -21,7 +21,7 @@ Trabalho e educação são direitos de todos. Em instituições como a UFCG é n
 - [Elicitação e Documentação de Requisitos](PerCurso%20-%20Casos%20de%20Uso%20(Elicitação).pdf)
 - [Diagrama de Casos de Uso](PerCurso%20-%20Diagrama%20de%20Casos%20de%20Uso.pdf)
 - [Diagrama de Atividades](PerCurso%20-%20Diagrama%20de%20Atividades.pdf)
-- [Mockups]([/6.%20Mockup](https://marvelapp.com/5844aa6/screen/63859709))
+- [Mockups](https://marvelapp.com/5844aa6/screen/63860234)
 
 
 ## Componentes
