@@ -1,3 +1,5 @@
+![alt text](https://github.com/lucasmedeiros/percurso/blob/master/percurso.PNG "Logo PerCurso")
+
 # PerCurso
 
 *Que bloco é esse?*, *Onde fica o bloco CN, e como posso chegar lá?*, *Será que o caminho é acessível para que eu possa chegar sem pedir ajuda?*. Com o PerCurso, essas perguntas não serão mais comuns na UFCG!
